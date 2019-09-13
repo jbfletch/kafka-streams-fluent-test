@@ -1,4 +1,4 @@
-package test_applications;
+package org.happypants.kafka.testHelpers.test_applications;
 
 import lombok.Getter;
 import org.apache.kafka.common.serialization.Serde;

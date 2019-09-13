@@ -1,4 +1,4 @@
-package serde;
+package org.happypants.kafka.testHelpers.serde;
 
 import lombok.experimental.Delegate;
 import org.apache.kafka.common.serialization.Serde;

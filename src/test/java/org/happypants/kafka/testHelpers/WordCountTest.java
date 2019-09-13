@@ -1,10 +1,11 @@
+package org.happypants.kafka.testHelpers;
+
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.common.serialization.Serdes;
-import org.happypants.kafka.testHelpers.TestTopology;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import test_applications.WordCount;
+import org.happypants.kafka.testHelpers.test_applications.WordCount;
 
 import java.util.Arrays;
 import java.util.Iterator;

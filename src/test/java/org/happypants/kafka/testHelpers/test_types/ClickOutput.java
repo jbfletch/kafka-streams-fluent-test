@@ -1,4 +1,4 @@
-package test_types;
+package org.happypants.kafka.testHelpers.test_types;
 
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

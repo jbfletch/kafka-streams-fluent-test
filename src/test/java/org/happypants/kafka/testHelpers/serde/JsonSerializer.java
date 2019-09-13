@@ -1,4 +1,4 @@
-package serde;
+package org.happypants.kafka.testHelpers.serde;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.NoArgsConstructor;

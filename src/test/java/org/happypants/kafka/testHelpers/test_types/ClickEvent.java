@@ -1,4 +1,4 @@
-package test_types;
+package org.happypants.kafka.testHelpers.test_types;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

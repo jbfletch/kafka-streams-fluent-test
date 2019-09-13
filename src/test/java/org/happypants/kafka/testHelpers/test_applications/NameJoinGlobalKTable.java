@@ -1,4 +1,4 @@
-package test_applications;
+package org.happypants.kafka.testHelpers.test_applications;
 
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.common.serialization.Serdes.LongSerde;
